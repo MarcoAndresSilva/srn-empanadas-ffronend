@@ -24,7 +24,7 @@ Una aplicación web full-stack robusta y desacoplada para la gestión de venta d
 
 ## 🏛️ Arquitectura y Decisiones de Diseño
 
-Este proyecto fue concebido siguiendo principios de diseño de software modernos, priorizando la separación de responsabilidades, la escalabilidad y la mantenibilidad. Para un análisis exhaustivo del proceso de desarrollo, las decisiones técnicas, los desafíos encontrados y las soluciones implementadas, por favor consulta el siguiente documento:
+Este proyecto fue concebido siguiendo principios de diseño de software modernos, priorizando la separación de responsabilidades, la escalabilidad y la mantenibilidad. Para un análisis del proceso de desarrollo, las decisiones técnicas, los desafíos encontrados y las soluciones implementadas, por favor consulta el siguiente documento:
 
 ### **[📄 Leer el Documento de Arquitectura](./ARCHITECTURE.md)**
 
