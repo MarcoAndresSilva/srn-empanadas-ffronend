@@ -1,5 +1,5 @@
 # App gestión de empanadas chilenas: “Fonda SRN” 
-Una aplicación web full-stack robusta y desacoplada para la gestión de empanadas, desarrollada como solución al desafío técnico para el rol de **Desarrollador Fullstack Frontend**. El proyecto demuestra competencias en la arquitectura de microservicios, orquestación con Docker, desarrollo de API RESTful y consumo de servicios desde un frontend monolítico.
+Una aplicación web full-stack robusta y desacoplada para la gestión de venta de empanadas, desarrollada como solución al desafío técnico para el rol de **Desarrollador Fullstack Frontend**. El proyecto demuestra competencias en la arquitectura de microservicios, orquestación con Docker, desarrollo de API RESTful y consumo de servicios desde un frontend monolítico.
 
 ## 📸 Vistas Previas
 <p align="center">
